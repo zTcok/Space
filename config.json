@@ -3,9 +3,9 @@
         "auto_redirect": "https://ubistatic-a.akamaihd.net/0098/83407701",
         "redirect": [
             {
-                "ClientIP": "103.51.205.106",
+                "ClientIP": "8.222.191.203",
                 "ENetIP": "auto",
-                "ENetPort": "6666"
+                "ENetPort": "17091"
             }
         ]
     },
@@ -22,24 +22,24 @@
         },
         "server_data": {
             "ip": "auto",
-            "port": 5555,
+            "port": 17091,
             "type": 1,
             "loginUrl": "gtps.pw",
             "maint": "Failed login, please contact discord Alukard A.K.A GTPSHAX",
             "meta": "GrowPlus",
             "beta": {
                 "server": "gtps.pw",
-                "port": 28028,
+                "port": 17091,
                 "type": 1
             },
             "beta2": {
                 "server": "gtps.pw",
-                "port": 28028,
+                "port": 80,
                 "type": 1
             },
             "beta3": {
                 "server": "gtps.pw",
-                "port": 28028,
+                "port": 443,
                 "type": 1
             }
         }
